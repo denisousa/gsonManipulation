@@ -1,0 +1,24 @@
+{
+  "firstName": "João",
+  "lastName": "Silva",
+  "age": 30,
+  "dreams": [
+    "Passsar em POO",
+    "Não reprovar"
+  ],
+  "adress": {
+    "cep": "12345678",
+    "street": "rua lalala",
+    "number": 1234
+  },
+  "certificates": [
+    {
+      "name": "Curso POO",
+      "age": 2023
+    },
+    {
+      "name": "Curso Assembly",
+      "age": 2023
+    }
+  ]
+}
